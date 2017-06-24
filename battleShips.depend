@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1496007877 source:c:\users\tomer\desktop\mycodes\battleships\battleships\main.c
+	<stdio.h>
+	<stdlib.h>
+	"board1.h"
+
+1495989569 source:c:\users\tomer\desktop\mycodes\battleships\battleships\board.c
+	<stdio.h>
+	<stdlib.h>
+	"board.h"
+
+1495991855 c:\users\tomer\desktop\mycodes\battleships\battleships\board.h
+	<stdio.h>
+	<stdlib.h>
+
+1496014067 source:c:\users\tomer\desktop\mycodes\battleships\battleships\board1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"board1.h"
+
+1496008560 c:\users\tomer\desktop\mycodes\battleships\battleships\board1.h
+	<stdio.h>
+	<stdlib.h>
+
+1496484661 source:c:\users\ronen\desktop\mycodes\battleships\main.c
+	<stdio.h>
+	<stdlib.h>
+	"board1.h"
+	"files.h"
+
+1496484760 c:\users\ronen\desktop\mycodes\battleships\board1.h
+	<stdio.h>
+	<stdlib.h>
+	"files.h"
+
+1496485107 source:c:\users\ronen\desktop\mycodes\battleships\board1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"board1.h"
+
+1497214661 source:c:\users\tomer\desktop\mycodes\battleships\board1.c
+	<math.h>
+	<string.h>
+	"board1.h"
+	"files.h"
+
+1497212934 c:\users\tomer\desktop\mycodes\battleships\board1.h
+	<stdio.h>
+	<stdlib.h>
+	"files.h"
+
+1497214613 source:c:\users\tomer\desktop\mycodes\battleships\main.c
+	<stdio.h>
+	<stdlib.h>
+	"files.h"
+
+1496092526 c:\users\tomer\desktop\mycodes\battleships\board1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"board1.h"
+
+1496484854 c:\users\ronen\desktop\mycodes\battleships\files.h
+	<stdio.h>
+	<stdlib.h>
+	"player.h"
+
+1496485107 source:c:\users\ronen\desktop\mycodes\battleships\player.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"board1.h"
+
+1496485017 source:c:\users\ronen\desktop\mycodes\battleships\files.c
+	<stdio.h>
+	<stdlib.h>
+	"board1.h"
+	"player.h"
+
+1496484470 c:\users\ronen\desktop\mycodes\battleships\player.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"board1.h"
+
+1497212934 c:\users\tomer\desktop\mycodes\battleships\files.h
+
+1497212774 c:\users\tomer\desktop\mycodes\battleships\player.h
+	<math.h>
+	<string.h>
+
+1498071019 source:c:\users\tomer\desktop\mycodes\battleships\files.c
+	"board1.h"
+	"player.h"
+	"files.h"
+
+1497212774 source:c:\users\tomer\desktop\mycodes\battleships\player.c
+	<math.h>
+	<string.h>
+	"board1.h"
+	"player.h"
+

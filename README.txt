@@ -9,7 +9,7 @@
 
 /*==============================================================================
  | Filename: battleShips
- | Programmer: Shoham Roditi 205530157 & Tomer lotan 203289673                                                              
+ | Programmer: Shoham Roditi  & Tomer lotan                                                               
  | Programming Assignment 3: Game of Battleship                    
  | Date: Jun 11, 2017                                                 
  +------------------------------------------------------------------------------                                                                       
